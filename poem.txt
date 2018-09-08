@@ -6,7 +6,7 @@ before merge
 
 purple unicorn
 
-orange
+orange color
 green
 Unicorn
 yellow
