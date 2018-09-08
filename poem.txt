@@ -3,7 +3,7 @@ The Rainblow and Unicorn
 
 before merge
 
-
+Another color
 purple
 orange
 green
